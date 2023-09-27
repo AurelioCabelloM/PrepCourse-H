@@ -1,2 +1,2 @@
-# PrepCourse-H
-repositorio prueba modulo 2 
+Aurelio Cabello
+como clonar un repositorio y clonarlo desde github a mi escritorio
